@@ -1,1 +1,11 @@
 
+# Shopping List App with Vanilla JS
+
+This project demonstrates creating a shopping list application using vanilla JavaScript and manipulating the DOM with events.
+
+## Features
+- Add and remove items from the shopping list.
+- Utilizes JavaScript to update the list dynamically.
+- Demonstrates event handling for user interactions.
+
+Explore this repository to learn how to build a shopping list application using plain JavaScript.
